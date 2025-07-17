@@ -9,7 +9,7 @@
 <p align="left">Eu sou de Brasilia.
   🎓 Estudante de Ciências da Computação.
   💻 Desenvolvedor em formação com paixão por Python, automações e IAs.
-  🚀 Atualmente estou em busca de conhecimentos em projetos em Python, Web e Dados.</p>
+  🚀 Atualmente estou em busca de conhecimentos projetos em Python, Web e Dados.</p>
 
 ###
 
