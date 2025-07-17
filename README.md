@@ -32,8 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" style="vertical-align: middle;" alt="bot logo" />
-
+  <img src="https://skillicons.dev/icons?i=bots" height="40" width="40" style="object-fit: contain;" alt="bot logo" />
   <img width="12" />
 </div>
 
