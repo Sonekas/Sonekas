@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroamancio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonekas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs)
 
 </div>
 
