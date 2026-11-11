@@ -35,14 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f916.svg" height="40" alt="robot logo"/>
 </div>
 
-
-
 ###
 
 <div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonekas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues,prs" alt="GitHub stats for Sonekas" />
 </div>
 
 ###
@@ -54,8 +50,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph-dark.svg">
 </picture>
-
-
 
 ###
 
