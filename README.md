@@ -37,12 +37,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
