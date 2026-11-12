@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide=issues,prs" alt="GitHub stats for Sonekas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
 </div>
 
 ###
