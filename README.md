@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonekas&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" />
 </div>
 
 ###
@@ -46,7 +46,7 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="[LINK-DO-DARK-SVG](https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph.svg)">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sonekas/Sonekas/refs/heads/output/pacman-contribution-graph-dark.svg">
 </picture>
@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/pedro.amancio19/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:pedrohenriqueamancio@gmail.com" target="_blank">
+  <a href="pedrohenriqueamancio@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
